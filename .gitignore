@@ -162,3 +162,5 @@ cython_debug/
 # Other files and file-types
 *.pdf
 *.csv
+*.DS_Store
+*/.DS_Store
